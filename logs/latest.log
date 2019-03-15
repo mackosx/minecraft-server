@@ -95,3 +95,10 @@
 [01:43:07] [Server thread/INFO]: japser36[/192.168.1.136:65352] logged in with entity id 311 at ([hehexd]182.5, 67.0, 222.5)
 [01:43:24] [Server thread/INFO]: japser36 lost connection: Disconnected
 [01:43:24] [Server thread/INFO]: japser36 left the game
+[01:46:41] [Server thread/INFO]: Stopping the server
+[01:46:41] [Server thread/INFO]: Stopping server
+[01:46:41] [Server thread/INFO]: Saving players
+[01:46:41] [Server thread/INFO]: Saving worlds
+[01:46:41] [Server thread/INFO]: Saving chunks for level 'hehexd_nether'/minecraft:the_nether
+[01:46:41] [Server thread/INFO]: Saving chunks for level 'hehexd_the_end'/minecraft:the_end
+[01:46:41] [Server thread/INFO]: Saving chunks for level 'hehexd'/minecraft:overworld
