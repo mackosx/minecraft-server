@@ -370,10 +370,12 @@
       "cooked_porkchop": "2019-03-10 16:20:58 -0700",
       "cooked_mutton": "2019-03-10 14:06:27 -0700",
       "cooked_beef": "2019-03-10 22:52:47 -0700",
+      "beef": "2019-03-14 22:32:18 -0700",
       "potato": "2019-03-13 22:39:13 -0700",
       "mutton": "2019-03-10 14:00:59 -0700",
       "bread": "2019-03-13 18:50:51 -0700",
-      "rotten_flesh": "2019-03-10 22:20:59 -0700"
+      "rotten_flesh": "2019-03-10 22:20:59 -0700",
+      "cooked_chicken": "2019-03-14 22:48:10 -0700"
     },
     "done": false
   },
@@ -455,13 +457,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-03-10 13:18:30 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-03-10 13:18:30 -0700"
     },
@@ -476,6 +478,12 @@
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_bonemeal": "2019-03-10 22:41:32 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-03-14 22:40:22 -0700"
     },
     "done": true
   },
@@ -1119,6 +1127,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-03-14 22:40:22 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2019-03-10 22:07:42 -0700"
@@ -1599,6 +1613,7 @@
       "minecraft:mountains": "2019-03-10 13:07:48 -0700",
       "minecraft:forest": "2019-03-10 12:57:35 -0700",
       "minecraft:taiga": "2019-03-13 23:50:41 -0700",
+      "minecraft:taiga_hills": "2019-03-14 22:32:55 -0700",
       "minecraft:beach": "2019-03-10 13:00:13 -0700",
       "minecraft:river": "2019-03-10 12:59:53 -0700",
       "minecraft:wooded_mountains": "2019-03-10 14:01:48 -0700",
@@ -1820,6 +1835,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-03-10 15:07:26 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2019-03-14 22:24:15 -0700"
     },
     "done": true
   },
