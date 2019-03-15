@@ -1,10 +1,54 @@
-[00:47:07] [Server thread/INFO]: VoyTheBoy lost connection: Disconnected
-[00:47:07] [Server thread/INFO]: VoyTheBoy left the game
-[00:47:10] [Server thread/INFO]: Vb140 lost connection: Disconnected
-[00:47:10] [Server thread/INFO]: Vb140 left the game
-[00:47:16] [Server Shutdown Thread/INFO]: Stopping server
-[00:47:16] [Server Shutdown Thread/INFO]: Saving players
-[00:47:16] [Server Shutdown Thread/INFO]: Saving worlds
-[00:47:16] [Server Shutdown Thread/INFO]: Saving chunks for level 'hehexd'/minecraft:overworld
-[00:47:16] [Server Shutdown Thread/INFO]: Saving chunks for level 'hehexd'/minecraft:the_end
-[00:47:16] [Server Shutdown Thread/INFO]: Saving chunks for level 'hehexd'/minecraft:the_nether
+[01:23:20] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:23:20] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:23:20] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:23:20] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:23:20] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:23:21] [main/INFO]: Loaded 0 recipes
+[01:23:21] [main/INFO]: Loaded 0 advancements
+[01:23:21] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[01:23:21] [Server thread/INFO]: Loading properties
+[01:23:21] [Server thread/INFO]: Default game type: SURVIVAL
+[01:23:21] [Server thread/INFO]: Generating keypair
+[01:23:21] [Server thread/INFO]: Starting Minecraft server on 25.15.150.65:25565
+[01:23:21] [Server thread/INFO]: Using default channel type
+[01:23:21] [Server thread/INFO]: Preparing level "hehexd"
+[01:23:21] [Server thread/INFO]: Reloading ResourceManager: Default
+[01:23:22] [Server thread/INFO]: Loaded 524 recipes
+[01:23:22] [Server thread/INFO]: Loaded 571 advancements
+[01:23:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:23:23] [Server thread/INFO]: Preparing spawn area: 4%
+[01:23:23] [Server thread/INFO]: Preparing spawn area: 8%
+[01:23:23] [Server thread/INFO]: Preparing spawn area: 12%
+[01:23:23] [Server thread/INFO]: Preparing spawn area: 16%
+[01:23:24] [Server thread/INFO]: Preparing spawn area: 20%
+[01:23:24] [Server thread/INFO]: Preparing spawn area: 24%
+[01:23:24] [Server thread/INFO]: Preparing spawn area: 28%
+[01:23:24] [Server thread/INFO]: Preparing spawn area: 32%
+[01:23:24] [Server thread/INFO]: Preparing spawn area: 36%
+[01:23:24] [Server thread/INFO]: Preparing spawn area: 40%
+[01:23:24] [Server thread/INFO]: Preparing spawn area: 44%
+[01:23:24] [Server thread/INFO]: Preparing spawn area: 48%
+[01:23:24] [Server thread/INFO]: Preparing spawn area: 52%
+[01:23:24] [Server thread/INFO]: Preparing spawn area: 56%
+[01:23:24] [Server thread/INFO]: Preparing spawn area: 60%
+[01:23:24] [Server thread/INFO]: Preparing spawn area: 64%
+[01:23:24] [Server thread/INFO]: Preparing spawn area: 68%
+[01:23:24] [Server thread/INFO]: Preparing spawn area: 72%
+[01:23:24] [Server thread/INFO]: Preparing spawn area: 76%
+[01:23:24] [Server thread/INFO]: Preparing spawn area: 80%
+[01:23:24] [Server thread/INFO]: Preparing spawn area: 84%
+[01:23:24] [Server thread/INFO]: Preparing spawn area: 88%
+[01:23:24] [Server thread/INFO]: Preparing spawn area: 92%
+[01:23:24] [Server thread/INFO]: Preparing spawn area: 96%
+[01:23:24] [Server thread/INFO]: Preparing spawn area: 100%
+[01:23:24] [Server thread/INFO]: Time elapsed: 1692 ms
+[01:23:24] [Server thread/INFO]: Done (3.133s)! For help, type "help"
+[01:23:32] [User Authenticator #1/INFO]: UUID of player Vb140 is 6a769955-8534-4fae-95cf-0afb053d9d2a
+[01:23:32] [Server thread/INFO]: Vb140[/25.15.150.65:65499] logged in with entity id 268 at (165.15168698571404, 68.0, 256.6573258272573)
+[01:23:32] [Server thread/INFO]: Vb140 joined the game
+[01:23:57] [Server thread/INFO]: Vb140 lost connection: Disconnected
+[01:23:57] [Server thread/INFO]: Vb140 left the game
+[01:24:03] [Server Shutdown Thread/INFO]: Stopping server
+[01:24:03] [Server Shutdown Thread/INFO]: Saving players
+[01:24:03] [Server Shutdown Thread/INFO]: Saving worlds
+[01:24:03] [Server Shutdown Thread/INFO]: Saving chunks for level 'hehexd'/minecraft:the_nether
