@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2019-03-19 22:39:59 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2019-03-10 15:36:23 -0600"
@@ -47,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2019-03-19 22:21:01 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2019-03-10 15:25:06 -0600"
@@ -59,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2019-03-19 23:12:12 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2019-03-10 16:49:18 -0600"
@@ -68,6 +86,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2019-03-13 23:34:47 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2019-03-19 22:20:44 -0600"
     },
     "done": true
   },
@@ -227,6 +251,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2019-03-19 22:21:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2019-03-19 23:12:12 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2019-03-11 01:07:18 -0600"
@@ -246,15 +282,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2019-03-10 15:25:06 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2019-03-10 15:25:06 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2019-03-10 15:25:06 -0600"
     },
     "done": true
   },
@@ -266,6 +302,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2019-03-19 22:16:41 -0600",
       "apple": "2019-03-11 01:35:13 -0600",
       "cooked_cod": "2019-03-10 17:40:59 -0600",
       "cooked_chicken": "2019-03-13 23:49:08 -0600",
@@ -357,13 +394,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2019-03-10 16:35:19 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2019-03-10 16:35:19 -0600"
     },
@@ -423,6 +460,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2019-03-19 22:21:01 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2019-03-10 16:35:19 -0600"
@@ -462,6 +505,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2019-03-11 01:33:32 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2019-03-19 22:21:01 -0600"
     },
     "done": true
   },
@@ -573,6 +622,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2019-03-19 23:12:12 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2019-03-10 15:24:09 -0600"
@@ -582,6 +637,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2019-03-10 15:37:08 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2019-03-19 22:39:59 -0600"
     },
     "done": true
   },
@@ -683,6 +744,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2019-03-11 01:33:32 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2019-03-19 22:20:44 -0600"
     },
     "done": true
   },
@@ -824,6 +891,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2019-03-19 23:12:12 -0600"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2019-03-13 23:52:59 -0600"
@@ -914,6 +987,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2019-03-19 22:39:59 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2019-03-10 16:49:18 -0600"
@@ -923,6 +1002,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2019-03-10 15:41:05 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2019-03-19 22:20:58 -0600"
     },
     "done": true
   },
@@ -947,6 +1032,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2019-03-10 16:12:40 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2019-03-19 22:36:44 -0600"
     },
     "done": true
   },
@@ -1061,6 +1152,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2019-03-10 16:57:13 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2019-03-19 22:39:59 -0600"
     },
     "done": true
   },
@@ -1190,14 +1287,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2019-03-19 22:21:01 -0600"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-03-10 15:24:07 -0600",
-      "minecraft:forest": "2019-03-10 15:22:44 -0600",
       "minecraft:mountains": "2019-03-10 15:24:42 -0600",
+      "minecraft:forest": "2019-03-10 15:22:44 -0600",
       "minecraft:deep_cold_ocean": "2019-03-13 23:54:18 -0600",
       "minecraft:deep_frozen_ocean": "2019-03-13 23:54:27 -0600",
       "minecraft:beach": "2019-03-10 15:23:43 -0600",
+      "minecraft:dark_forest": "2019-03-19 22:16:55 -0600",
       "minecraft:river": "2019-03-10 15:23:37 -0600",
       "minecraft:wooded_hills": "2019-03-10 16:10:33 -0600",
       "minecraft:stone_shore": "2019-03-10 15:24:06 -0600",
@@ -1232,6 +1336,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2019-03-10 15:36:23 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2019-03-19 22:16:28 -0600"
     },
     "done": true
   },
@@ -1313,6 +1423,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2019-03-19 22:21:01 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2019-03-10 15:25:06 -0600"
@@ -1352,6 +1468,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2019-03-11 01:32:59 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2019-03-19 22:36:22 -0600"
     },
     "done": true
   },

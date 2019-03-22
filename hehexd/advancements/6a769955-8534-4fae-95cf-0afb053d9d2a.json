@@ -483,13 +483,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-03-10 14:18:30 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-03-10 14:18:30 -0600"
     },
@@ -600,6 +600,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2019-03-14 00:51:32 -0600",
+      "minecraft:chicken": "2019-03-19 22:21:50 -0600",
       "minecraft:sheep": "2019-03-14 00:21:02 -0600"
     },
     "done": false

@@ -294,6 +294,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_at_least_9_ice": "2019-03-19 23:10:09 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2019-03-13 19:47:17 -0600"
@@ -374,6 +380,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2019-03-19 22:39:42 -0600",
       "cooked_mutton": "2019-03-15 00:46:27 -0600",
       "cooked_beef": "2019-03-13 21:07:35 -0600",
       "apple": "2019-03-13 20:57:47 -0600",
@@ -450,13 +457,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2019-03-13 20:10:55 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2019-03-13 20:10:55 -0600"
     },
@@ -634,6 +641,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2019-03-18 14:03:33 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2019-03-14 23:43:26 -0600"
@@ -655,6 +668,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2019-03-13 21:58:39 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2019-03-19 23:23:20 -0600"
     },
     "done": true
   },
@@ -766,6 +785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2019-03-19 22:38:11 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2019-03-13 19:42:57 -0600"
@@ -865,15 +890,17 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2019-03-15 21:05:15 -0600",
+      "minecraft:polar_bear": "2019-03-19 23:12:32 -0600",
       "minecraft:skeleton": "2019-03-13 19:50:25 -0600",
+      "minecraft:phantom": "2019-03-19 22:40:26 -0600",
       "minecraft:wither_skeleton": "2019-03-15 21:02:31 -0600",
       "minecraft:ghast": "2019-03-15 00:35:23 -0600",
       "minecraft:enderman": "2019-03-14 22:48:11 -0600",
       "minecraft:magma_cube": "2019-03-15 21:16:26 -0600",
       "minecraft:spider": "2019-03-13 23:37:07 -0600",
       "minecraft:zombie": "2019-03-13 19:54:15 -0600",
-      "minecraft:creeper": "2019-03-13 21:31:15 -0600",
       "minecraft:drowned": "2019-03-14 14:04:56 -0600",
+      "minecraft:creeper": "2019-03-13 21:31:15 -0600",
       "minecraft:zombie_villager": "2019-03-13 21:44:04 -0600",
       "minecraft:slime": "2019-03-14 22:56:52 -0600"
     },
@@ -906,6 +933,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2019-03-13 22:00:47 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_at_least_9_packed_ice": "2019-03-19 23:10:48 -0600"
     },
     "done": true
   },
@@ -1343,6 +1376,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2019-03-19 22:38:11 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2019-03-14 14:05:32 -0600"
@@ -1400,6 +1439,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2019-03-13 21:26:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2019-03-19 23:12:36 -0600"
     },
     "done": true
   },
@@ -1538,12 +1583,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-03-13 19:47:13 -0600",
-      "minecraft:forest": "2019-03-13 19:41:05 -0600",
       "minecraft:mountains": "2019-03-13 19:47:46 -0600",
+      "minecraft:forest": "2019-03-13 19:41:05 -0600",
       "minecraft:taiga": "2019-03-14 23:35:09 -0600",
+      "minecraft:deep_cold_ocean": "2019-03-19 23:09:30 -0600",
       "minecraft:taiga_hills": "2019-03-15 00:29:14 -0600",
       "minecraft:beach": "2019-03-13 19:58:08 -0600",
       "minecraft:river": "2019-03-13 19:47:07 -0600",
+      "minecraft:wooded_mountains": "2019-03-19 23:06:35 -0600",
       "minecraft:wooded_hills": "2019-03-13 23:52:00 -0600",
       "minecraft:stone_shore": "2019-03-13 19:47:12 -0600",
       "minecraft:plains": "2019-03-15 12:38:57 -0600"
@@ -1574,6 +1621,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_from_smelting": {
+    "criteria": {
+      "has_lapis_ore": "2019-03-19 18:12:44 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2019-03-13 19:44:10 -0600"
@@ -1583,6 +1636,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2019-03-13 23:34:30 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2019-03-19 22:38:11 -0600"
     },
     "done": true
   },
