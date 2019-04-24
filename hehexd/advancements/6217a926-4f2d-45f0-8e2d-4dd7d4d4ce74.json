@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_red_flower": "2019-03-24 02:12:55 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2019-03-18 01:12:50 -0600"
@@ -80,6 +86,12 @@
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2019-03-18 23:49:54 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2019-03-23 01:28:32 -0600"
     },
     "done": true
   },
@@ -323,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2019-03-31 13:28:47 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2019-03-18 00:16:27 -0600"
@@ -357,8 +375,10 @@
     "criteria": {
       "cooked_mutton": "2019-03-18 00:17:06 -0600",
       "cooked_beef": "2019-03-19 17:38:54 -0600",
+      "apple": "2019-03-23 01:58:43 -0600",
       "cooked_cod": "2019-03-19 12:13:34 -0600",
       "bread": "2019-03-19 11:37:26 -0600",
+      "cooked_chicken": "2019-03-23 01:59:41 -0600",
       "cooked_salmon": "2019-03-18 23:26:06 -0600",
       "carrot": "2019-03-18 21:20:49 -0600"
     },
@@ -412,6 +432,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2019-03-23 02:28:32 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2019-03-18 00:06:55 -0600"
@@ -427,6 +453,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2019-03-18 00:38:35 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2019-03-23 01:14:28 -0600"
     },
     "done": true
   },
@@ -553,7 +585,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2019-03-19 00:00:54 -0600",
-      "minecraft:chicken": "2019-03-19 13:47:25 -0600"
+      "minecraft:chicken": "2019-03-19 13:47:25 -0600",
+      "minecraft:wolf": "2019-03-23 02:00:50 -0600"
     },
     "done": false
   },
@@ -572,6 +605,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2019-03-18 01:22:18 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2019-03-23 02:09:29 -0600"
     },
     "done": true
   },
@@ -707,6 +746,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2019-03-23 01:28:32 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2019-03-17 22:28:08 -0600"
@@ -779,6 +824,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2019-03-31 13:41:11 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2019-03-18 01:20:52 -0600"
@@ -842,11 +893,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2019-03-18 00:32:51 -0600",
+      "minecraft:witch": "2019-03-31 13:49:50 -0600",
       "minecraft:enderman": "2019-03-19 13:27:22 -0600",
       "minecraft:spider": "2019-03-18 00:36:29 -0600",
       "minecraft:zombie": "2019-03-18 00:31:41 -0600",
       "minecraft:creeper": "2019-03-19 13:44:31 -0600",
-      "minecraft:drowned": "2019-03-18 01:39:19 -0600"
+      "minecraft:drowned": "2019-03-18 01:39:19 -0600",
+      "minecraft:zombie_villager": "2019-03-26 22:03:16 -0600",
+      "minecraft:slime": "2019-03-24 02:14:44 -0600"
     },
     "done": false
   },
@@ -920,6 +974,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2019-03-24 02:19:33 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2019-03-18 01:25:13 -0600"
@@ -962,6 +1022,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2019-03-23 02:09:29 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2019-03-18 00:38:35 -0600"
@@ -995,6 +1061,12 @@
   "minecraft:recipes/decorations/blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-03-18 01:25:13 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2019-03-23 01:28:32 -0600"
     },
     "done": true
   },
@@ -1178,6 +1250,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2019-03-23 01:48:46 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2019-03-19 17:44:03 -0600"
@@ -1244,6 +1322,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_coal_ore": "2019-03-31 13:23:03 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2019-03-19 17:44:03 -0600"
@@ -1265,6 +1349,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2019-03-19 17:44:03 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2019-03-24 02:14:48 -0600"
     },
     "done": true
   },
@@ -1343,6 +1433,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2019-03-18 00:06:28 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2019-03-24 02:19:33 -0600"
     },
     "done": true
   },
@@ -1436,6 +1532,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2019-03-24 02:14:48 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2019-03-18 00:06:55 -0600"
@@ -1468,11 +1570,16 @@
       "minecraft:taiga": "2019-03-19 12:36:04 -0600",
       "minecraft:deep_cold_ocean": "2019-03-18 21:40:58 -0600",
       "minecraft:taiga_hills": "2019-03-19 17:58:16 -0600",
+      "minecraft:deep_frozen_ocean": "2019-03-23 01:26:29 -0600",
+      "minecraft:birch_forest": "2019-03-24 02:21:50 -0600",
       "minecraft:beach": "2019-03-17 22:28:04 -0600",
+      "minecraft:dark_forest": "2019-03-26 21:59:41 -0600",
       "minecraft:river": "2019-03-17 22:28:03 -0600",
       "minecraft:wooded_mountains": "2019-03-18 00:26:29 -0600",
       "minecraft:wooded_hills": "2019-03-18 00:15:39 -0600",
-      "minecraft:stone_shore": "2019-03-18 00:03:59 -0600"
+      "minecraft:stone_shore": "2019-03-18 00:03:59 -0600",
+      "minecraft:swamp": "2019-03-24 02:12:42 -0600",
+      "minecraft:plains": "2019-03-23 01:32:29 -0600"
     },
     "done": false
   },
@@ -1728,9 +1835,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2019-03-23 01:09:45 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2019-03-18 01:22:18 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2019-03-24 02:12:49 -0600"
     },
     "done": true
   },
@@ -1755,6 +1874,12 @@
   "minecraft:recipes/decorations/blue_banner": {
     "criteria": {
       "has_blue_wool": "2019-03-19 18:45:38 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2019-03-26 21:57:03 -0600"
     },
     "done": true
   },

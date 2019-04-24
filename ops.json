@@ -1,7 +1,19 @@
 [
   {
+    "uuid": "95dca98f-b79a-4d28-b8aa-fb9982ab0f98",
+    "name": "VoyTheBoy",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "db8ea97e-db7b-4c48-9d0b-15fd908f39bc",
     "name": "japser36",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ddc00d35-d040-46b3-9c5f-e3e32fab726b",
+    "name": "SuetyFall78",
     "level": 4,
     "bypassesPlayerLimit": false
   },
